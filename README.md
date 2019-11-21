@@ -10,7 +10,9 @@ Ask "where is" followed by a location for Iris to open google chrome and show yo
 Ask to "Add" numbers together, maximum of two numbers, can include decimal point numbers.
 
 Ask to "multiply" numbers together, maximum of two numbers, can include decimal point numbers.
+
 Ask to "Divide" numbers, maximum of two numbers, can include decimal point numbers. 
+
 Ask to "Subtract" numbers, maximum of two numbers, can include decimal point numbers. 
 
 For this project to work you need to install the following libraries for python on your computer.
