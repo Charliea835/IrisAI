@@ -18,7 +18,9 @@ Ask to "Subtract" numbers, maximum of two numbers, can include decimal point num
 For this project to work you need to install the following libraries for python on your computer.
 
 speech_recognition.
+
 gtts (google text to speech)
+
 pygame
 
 
